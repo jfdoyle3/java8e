@@ -1,13 +1,10 @@
 package com.company;
 
+import java.util.Random;
 import Yahtzee.Hand;
 import Yahtzee.YahtzeeConsole;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Random;
-
-public class Main {
+public class Yahtzee {
 
     public static void main(String[] args) {
         Random rand = new Random();
